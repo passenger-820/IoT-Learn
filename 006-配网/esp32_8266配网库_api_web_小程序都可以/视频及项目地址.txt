@@ -1,0 +1,10 @@
+视频
+https://www.bilibili.com/video/BV15S4y1G78f
+官方
+https://www.cbug.top/article/21.html
+开发文档
+https://www.cbug.top/1app/bgwificonfig/#/
+Gitee
+https://gitee.com/fish_five/BGWiFiConfig
+Github
+https://github.com/fish-five/BGWiFiConfig
